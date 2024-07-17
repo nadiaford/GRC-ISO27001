@@ -1,35 +1,38 @@
 # GRC-ISO27001
 
 <h2>Description</h2>
-Performed a mock compliance audit for Maryland University utilzing ISO 27001. In this audit I gathered data + performed mock interviews with SME's (Subject Matter Experts), completed the audit, ran a risk assessment, and wrote a email to stake holder informing them of my findings.  
+Conducted a mock compliance audit for Maryland University utilizing ISO 27001 standards. In this audit, I gathered data, performed mock interviews with Subject Matter Experts (SMEs), completed the audit, ran a risk assessment, and wrote an email to stakeholders informing them of my findings.  
 <br />
 
 <h2>Project Walk-Through:</h2>
 <p align="center">
 
-I gathered data on the universities Information Security standard in input into ChatGPT to perform a mock interview with the university's IT Manager.<br /><br />
+### Data Gathering + Interviews
+<br />
+I gathered data on the university's Information Security standards and input it into ChatGPT to perform a mock interview with the university's IT Manager.<br /><br />
 
 I used this prompt:
 
-"I'm looking to run a compliance audit of a major university's IT department. I need you to create names and roles of individuals. After I'm going to ask you questions based off of the information security policy for the university. Please use this link to guide you answers: https://itsupport.umd.edu/itsupport?id=kb_article&sysparm_article=KB0012916"
+> "I'm looking to run a compliance audit of a major university's IT department. I need you to create names and roles of individuals. After I'm going to ask you questions based off of the information security policy for the university. Please use this link to guide you answers: https://itsupport.umd.edu/itsupport?id=kb_article&sysparm_article=KB0012916"<br /><br />
 
 
-Within this interviewd I provided questions based off of ISO 27001 standards 7.1 - 7.9: Physical Controls.<br /><br />
+Within this interview, I provided questions based on ISO 27001 standards 7.1 - 7.9: Physical Controls.<br /><br />
 
-Once interview was completed, I entered the data into a spreadsheet to perform the compliance audit. I indentified the poloices that were out of the compliance and emphasized the threat and descridebed the vulnerabilites.<br /><br />
+Upon completing the interview, I entered the data into a spreadsheet to conduct the compliance audit. I identified the policies that were not in compliance, highlighted the associated threats, and detailed the specific vulnerabilities.<br /><br />
 
 <img src="https://i.imgur.com/2RhCEnJ.png" height="80%" width="80%" alt="Compliance Audit"/>
 <br />
-<br />
 
-Risk Assesment:
+### Risk Assesment:
+A risk assessment was conducted based on the likelihood and impact of each risk. I concluded that these two risks have an average to high impact on the university's reputation and finances.
 <br />
 <br />
 <img src="https://i.imgur.com/FCi69Ou.png" height="40%" width="40%" alt="Risk Assessment"/>
 <br />
 <br />
 
-<h3>Stake Holder Letter</h3>
+### Stake Holder Letter
+Once the assessment was completed, I drafted an email to a stakeholder at the university to inform them of the threat, its impact, and the potential outcome if not addressed.
 <br />
 <br />
 <img src="https://i.imgur.com/g0Ehg50.png" height="80%" width="80%" alt="Stake Holder Letter"/>
