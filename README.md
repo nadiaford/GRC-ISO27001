@@ -36,6 +36,11 @@ Once the assessment was completed, I drafted an email to a stakeholder at the un
 <br />
 <br />
 <img src="https://i.imgur.com/g0Ehg50.png" height="80%" width="80%" alt="Stake Holder Letter"/>
+<br />
+<br />
+
+### Summary
+As part of a comprehensive mock compliance audit for Maryland University utilizing ISO 27001 standards, I gathered and analyzed data on the university's Information Security practices. I conducted mock interviews with Subject Matter Experts (SMEs) to assess compliance with physical controls, identified non-compliant policies, and detailed specific vulnerabilities. Through a thorough risk assessment, I evaluated the likelihood and impact of identified risks, concluding that certain threats posed significant potential impacts on the university's reputation and finances. I communicated these findings to stakeholders, emphasizing the importance of addressing the identified issues to enhance the university's information security posture and compliance.
 
 </p>
 
